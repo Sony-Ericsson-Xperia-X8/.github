@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Quick download ⚡️
+* [Basebands](https://github.com/Sony-Ericsson-Xperia-X8/Sony-Ericsson-X8-Basebands/archive/refs/tags/v1.0.0.zip)
+* [Kernels](https://github.com/Sony-Ericsson-Xperia-X8/Sony-Ericsson-X8-Kernels/archive/refs/tags/v1.0.0.zip)
